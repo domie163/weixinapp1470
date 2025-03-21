@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#f7c1c1",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "铁路订票平台小程序首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

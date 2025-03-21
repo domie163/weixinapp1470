@@ -1,0 +1,293 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#f7c1c1",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+		,{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarBackgroundColor": "#f7c1c1",
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值"
+			}
+		}
+
+	,{
+		"path": "pages/checi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次信息展示"
+		}
+	},{
+		"path": "pages/checi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的车次信息"
+		}
+	},{
+		"path": "pages/checi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次信息添加/修改"
+		}
+	},{
+		"path": "pages/checi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次信息详情"
+		}
+	}
+	,{
+		"path": "pages/checiCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次收藏展示"
+		}
+	},{
+		"path": "pages/checiCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的车次收藏"
+		}
+	},{
+		"path": "pages/checiCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次收藏添加/修改"
+		}
+	},{
+		"path": "pages/checiCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次收藏详情"
+		}
+	}
+	,{
+		"path": "pages/checiCommentback/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次评价展示"
+		}
+	},{
+		"path": "pages/checiCommentback/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的车次评价"
+		}
+	},{
+		"path": "pages/checiCommentback/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次评价添加/修改"
+		}
+	},{
+		"path": "pages/checiCommentback/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "车次评价详情"
+		}
+	}
+	,{
+		"path": "pages/checiOrder/list",
+		"style": {
+			"navigationBarTitleText": "购票订单"
+		}
+	},{
+		"path": "pages/checiOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的通知公告"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知公告详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "铁路订票平台小程序首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "铁路订票平台小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#8cd9b7",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/checi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "车次信息"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}

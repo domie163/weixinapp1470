@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#f7c1c1",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的车次信息",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
